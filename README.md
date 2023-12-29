@@ -30,8 +30,11 @@ DBSCAN (Density-Based Spatial Clustering of Applications with Noise) is a densit
 To demonstrate the effectiveness of the clustering algorithms, three custom datasets are generated:
 
 Dataset1: Blobs Dataset
+
 Dataset2: Anisotropically Distributed Dataset
+
 Dataset3: Noisy Moons Dataset
+
 Dataset4: Noisy Circles Dataset
 
 
